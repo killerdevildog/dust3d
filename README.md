@@ -2,6 +2,8 @@
 
 ![Ubuntu 24.04 Build](https://img.shields.io/badge/Ubuntu%2024.04-Build%20Passing-green?logo=ubuntu&style=flat-square)
 
+![Dust3D Screenshot](screenshot/ScreenShot.png)
+
 Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 
 ## Getting Started
